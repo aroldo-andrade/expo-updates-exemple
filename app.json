@@ -3,9 +3,13 @@
     "name": "update-exemple",
     "slug": "update-exemple",
     "version": "1.0.0",
+    "sdkVersion": "45.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "updates": {
+      "url": "http://192.168.100.106:5500"
+    }
   },
   "name": "update-exemple"
 }
